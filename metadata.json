@@ -1,0 +1,6 @@
+{
+  "name": "RefGuard",
+  "description": "AI-powered digital payment and referral scam shield - Phase 1 Product Specs & Architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
